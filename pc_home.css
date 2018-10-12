@@ -6,19 +6,28 @@
    Tutorial Case
    
    Style Sheet for the Layout of the Pandaisia Chocolates Home Page
-   Author: 
-   Date:   
+   Author: Justin Aybar
+   Date: 10.12.18  
    
    Filename: pc_home.css
 
 */
 
 /* Body Styles */
-
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    min-width: 640px;
+    max-width: 960px;
+}
 
 
 /* Body Header Styles */
-
+body>header>img {
+    display: block;
+    width: 100%;
+}
 
 
 
@@ -38,4 +47,3 @@
 
 
 /* Footer Styles */
-
