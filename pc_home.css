@@ -36,6 +36,11 @@ nav.horizontalNavigation li {
     float: left;
 }
 
+nav.horrizontalNavigation a {
+    display: block;
+    text-align: center;
+}
+
 /* Left Column Styles */
 section#leftColumn {
     clear: left;
